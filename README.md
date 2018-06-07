@@ -1,0 +1,2 @@
+# StringToBinary
+Visual Studio Project
